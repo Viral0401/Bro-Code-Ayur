@@ -11,7 +11,7 @@ import GovScehems from './user/GovSchemes/GovScehems';
 import PatientProfile from './user/UserMain/PatientProfile/PatientProfile';
 import FindDonor from './user/Donor/FindDonor';
 import DonorList from './user/Donor/DonorList';
-import {Routes, Route} from 'react-router-dom'
+import {Routes, Route, Navigate} from 'react-router-dom'
 import { AuthContextProvider } from './FirebaseAuthContext/AuthContext';
 import Fundraiser from './user/Fundraiser/Fundraiser';
 import DonateOrgan from './DonorSide/DonateOrgan';
@@ -37,6 +37,7 @@ function App() {
       <AuthContextProvider>
       {patient && <Sidebar setPatient={setPatient} />}
       <Routes>
+        <Route path='/' element={<Login setPatient={setPatient}/>} />
         <Route path='/login' element={<Login setPatient={setPatient}/>} />
         <Route path='/signup' element={<Signup setPatient={setPatient}/>} />
         <Route path='/community' element={<Community />} />

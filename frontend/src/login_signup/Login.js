@@ -1,6 +1,6 @@
 import React, { useState, useRef } from "react";
-import Typical from 'react-typical'
-import logo from './intellihealthnobg.png'
+// import Typical from 'react-typical'
+import logo from './logo.png'
 import Button from '@mui/material/Button';
 // import { redirect, useNavigate } from "react-router-dom";
 import { Link, useNavigate } from 'react-router-dom';

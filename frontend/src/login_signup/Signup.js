@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Typical from 'react-typical'
-import logo from './intellihealthnobg.png'
+// import Typical from 'react-typical'
+import logo from './logo.png'
 import Button from '@mui/material/Button';
 import {Link, useNavigate} from 'react-router-dom'
 // import { createUserWithEmailAndPassword } from '@firebase/auth'
@@ -70,9 +70,9 @@ const Signup = ({setPatient}) => {
 
         <div className="h-screen w-[45%] bg-white flex flex-col item-center justify-center">
 
-            <img src={logo} className="ml-6" style={{height:"auto", width:"50%"}} alt="intellihealth logo"/>
+            <img src={logo} className="ml-6" style={{height:"auto", width:"40%"}} alt="intellihealth logo"/>
             
-            <div className="flex flex-col item-center justify-center w-full p-8">
+            <div className="flex flex-col item-center justify-center w-full p-5">
                 <div>
                     {/* <h3 className="text-2xl mb-5">    
                         <Typical

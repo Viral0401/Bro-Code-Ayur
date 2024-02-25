@@ -26,7 +26,7 @@ import DomainVerificationIcon from '@mui/icons-material/DomainVerification';
 import OnlinePredictionIcon from '@mui/icons-material/OnlinePrediction';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 //image
-import logo from "../login_signup/intellihealthnobg.png"
+import logo from "../login_signup/logo.png"
 import { RiMentalHealthLine } from "react-icons/ri";
 
 import { UserAuth } from '../FirebaseAuthContext/AuthContext';
