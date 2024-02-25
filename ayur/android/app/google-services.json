@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871492969100",
+    "project_id": "technovate-3749f",
+    "storage_bucket": "technovate-3749f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871492969100:android:39f500624f3d7efc0411a9",
+        "android_client_info": {
+          "package_name": "com.example.technovate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhyy-llg8sWfsXG8deAZ3aqut6CfPZ-uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
