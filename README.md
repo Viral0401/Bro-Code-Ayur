@@ -2,8 +2,6 @@
 
 🌟 Comprehensive web and mobile application to monitor and improve health and fitness 🌟
 
-![Health and Fitness Tracker Logo](src/Logos/Ayur-logo.jpg)
-
 
 
 ## Overview
