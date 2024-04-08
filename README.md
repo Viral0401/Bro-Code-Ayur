@@ -4,8 +4,7 @@
 
 ![Health and Fitness Tracker Logo](src/Logos/Ayur-logo.jpg)
 
-# Walkthrough - https://youtu.be/HgBd2bfBc9U
-# Presentation Deck - (./BroCode_AuraHackfest.pdf)
+
 
 ## Overview
 
