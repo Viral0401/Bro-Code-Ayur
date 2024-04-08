@@ -1,4 +1,4 @@
-# Health and Fitness Tracker
+# Ayur-Health and Fitness Tracker
 
 🌟 Comprehensive web and mobile application to monitor and improve health and fitness 🌟
 
